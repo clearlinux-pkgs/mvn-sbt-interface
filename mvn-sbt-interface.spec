@@ -4,7 +4,7 @@
 #
 Name     : mvn-sbt-interface
 Version  : 0.13.15
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/com/typesafe/sbt/sbt-interface/0.13.15/sbt-interface-0.13.15.jar
 Source0  : https://repo1.maven.org/maven2/com/typesafe/sbt/sbt-interface/0.13.15/sbt-interface-0.13.15.jar
 Source1  : https://repo1.maven.org/maven2/com/typesafe/sbt/sbt-interface/0.13.15/sbt-interface-0.13.15.pom
